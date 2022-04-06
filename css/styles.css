@@ -1,0 +1,50 @@
+body{
+  background-color: #333333;
+}
+
+h1{
+  color: #66BFBF;
+  text-align: center;
+}
+
+h3{
+  color: #66BFBF;
+  text-align: center;
+}
+
+p{
+  color: #66BFBF;
+  text-align: center;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+
+}
+img{
+  height: 300px;
+  position: relative;
+  background-position: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+table{
+  color: #66BFBF;
+  text-align: center;
+}
+
+h6{
+  color: #66BFBF;
+  text-align: center;
+}
+
+.program{
+  color: #aac221;
+  text-align: center;
+}
